@@ -50,3 +50,11 @@ These tutorials will be centered around the Machine Learning category & the tool
     3. Click 'Confirm'
     4. Click 'Refresh' - and now you have your COS service linked to the project.
 5. Click 'Create'
+
+The overview tab gives you a preview of your assets, bookmarks, collaborators and recent activity. 
+
+You're now ready to start building models in Watson Studio! 
+
+**Build with Model Builder**
+**Build with Jupyter Notebook**
+**Build with Flow Editor**

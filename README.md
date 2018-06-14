@@ -1,5 +1,4 @@
 # Watson Studio: Hands-on
-Get your hands dirty with machine learning in Watson Studio!
 
 Watson Studio provides you with the environment and tools to solve your business problems by collaboratively working with data. You can choose the tools you need to analyze and visualize data, to cleanse and shape data, to ingest streaming data, or to create, train, and deploy machine learning models.
 
@@ -24,3 +23,13 @@ These tutorials will be centered around the Machine Learning category & the tool
 * **Model builder** guides you, step by step, through building a model that uses Spark ML algorithms.
 * **Flow editor** presents a graphical view of your model while you build it by combining nodes representing objects or actions (including SPSS Modeler nodes, Spark ML algorithm nodes, and neural network nodes.)
 * **Notebooks** provide a collaborative environment for working with data, and rapid prototyping and testing of models.
+
+# Step One: Create an account
+
+1. Go to https://dataplatform.ibm.com/
+2. Click 'Sign Up' in the upper-right corner
+3. Enter your email to create an IBM Cloud account
+    1. Check the box to accept Watson Studio and Knowledge Catalog terms and conditions
+    2. If you don't already have an IBMid, click 'Create an IBMid'
+    3. Fill out your information, and verify your account via email.
+4. Login to [Watson Studio] (https://dataplatform.ibm.com/) with your IBMid.

@@ -32,4 +32,4 @@ These tutorials will be centered around the Machine Learning category & the tool
     1. Check the box to accept Watson Studio and Knowledge Catalog terms and conditions
     2. If you don't already have an IBMid, click 'Create an IBMid'
     3. Fill out your information, and verify your account via email.
-4. Login to [Watson Studio] (https://dataplatform.ibm.com/) with your IBMid.
+4. Login to [Watson Studio](https://dataplatform.ibm.com/) with your IBMid.

@@ -54,8 +54,6 @@ The overview tab gives you a preview of your assets, bookmarks, collaborators an
 
 # You're now ready to start building models in Watson Studio! 
 
-[**Build with Model Builder**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab1_Model_Builder.pdf)
-
-[**Build with Jupyter Notebook**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab2_Notebooks.pdf)
-
-[**Build with Flow Editor**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab3_ModelerFlows.pdf)
+1. [**Build with Model Builder**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab1_Model_Builder.pdf)
+2. [**Build with Jupyter Notebook**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab2_Notebooks.pdf)
+3. [**Build with Flow Editor**](https://github.com/lindsaywithers/watson-studio/blob/master/Lab3_ModelerFlows.pdf)

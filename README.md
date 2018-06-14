@@ -15,13 +15,12 @@ Ranging from graphical tools you can use to build a model in minutes, to tools t
 
 You can think of Watson Studio AI tools in three categories:
 
-* Machine learning
-* Deep learning
-* Visual recognition
+1. Machine learning
+2. Deep learning
+3. Visual recognition
+    
     
 These tutorials will be centered around the Machine Learning category & the tools for designing, training and managing models:
 * **Model builder** guides you, step by step, through building a model that uses Spark ML algorithms.
 * **Flow editor** presents a graphical view of your model while you build it by combining nodes representing objects or actions (including SPSS Modeler nodes, Spark ML algorithm nodes, and neural network nodes.)
 * **Notebooks** provide a collaborative environment for working with data, and rapid prototyping and testing of models.
-
-

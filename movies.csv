@@ -1,0 +1,1166 @@
+title,GENDER,SENIORCITIZEN,DEPENDENTS,TENURE,PAPERLESSBILLING,PAYMENTMETHOD,MONTHLYCHARGES
+Rounders,Female,0,1,39,1,Credit card (automatic),99.95
+Rounders,Female,0,1,71,0,Bank transfer (automatic),20.1
+Rounders,Female,0,1,72,1,Electronic check,78.95
+Payback,Male,0,0,12,0,Bank transfer (automatic),81.7
+Payback,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,1,0,13,1,Electronic check,98
+Caddyshack,Male,0,0,25,0,Bank transfer (automatic),25.3
+Caddyshack,Female,0,1,46,1,Mailed check,19.25
+Patton,Male,1,0,57,1,Bank transfer (automatic),95.25
+Patton,Female,1,0,8,1,Credit card (automatic),94.45
+Patton,Female,1,0,72,0,Credit card (automatic),89.1
+Patton,Male,0,0,24,1,Credit card (automatic),51.1
+Patton,Male,1,0,4,0,Electronic check,69.35
+Patton,Female,1,0,72,1,Bank transfer (automatic),110.1
+Cleopatra,Female,1,0,44,0,Bank transfer (automatic),74.85
+Cleopatra,Female,0,0,12,1,Bank transfer (automatic),89.75
+Cleopatra,Female,0,0,1,1,Mailed check,80.2
+Cleopatra,Female,0,0,2,0,Electronic check,90.35
+Cleopatra,Female,1,0,27,1,Bank transfer (automatic),86.45
+Cleopatra,Male,0,0,26,1,Electronic check,20.3
+Cleopatra,Female,1,0,39,1,Electronic check,101.25
+Cleopatra,Female,0,0,1,0,Mailed check,70.9
+Cleopatra,Female,0,0,72,1,Electronic check,114.9
+An American Werewolf in London,Male,1,0,55,1,Electronic check,74
+An American Werewolf in London,Female,1,0,55,1,Electronic check,85.45
+An American Werewolf in London,Male,1,0,57,1,Credit card (automatic),71.1
+An American Werewolf in London,Female,0,0,72,1,Electronic check,109.55
+An American Werewolf in London,Female,0,0,28,0,Mailed check,20.5
+An American Werewolf in London,Male,0,0,54,1,Bank transfer (automatic),74.55
+An American Werewolf in London,Male,1,1,24,1,Electronic check,79.85
+An American Werewolf in London,Female,0,0,2,1,Mailed check,62.15
+An American Werewolf in London,Male,0,1,12,0,Credit card (automatic),21.05
+An American Werewolf in London,Male,1,0,51,1,Bank transfer (automatic),79.6
+An American Werewolf in London,Male,0,0,13,0,Mailed check,73.35
+An American Werewolf in London,Male,0,0,58,0,Bank transfer (automatic),70.1
+An American Werewolf in London,Female,0,1,18,1,Credit card (automatic),54.4
+An American Werewolf in London,Female,0,0,29,1,Mailed check,19.55
+An American Werewolf in London,Female,0,1,72,0,Mailed check,74.55
+An American Werewolf in London,Male,0,1,71,0,Credit card (automatic),23.9
+Nomads,Male,0,0,72,1,Credit card (automatic),61.2
+Nomads,Male,1,0,72,0,Bank transfer (automatic),74.4
+Nomads,Male,0,0,15,1,Electronic check,49
+Nomads,Male,0,0,24,1,Bank transfer (automatic),99.65
+Nomads,Male,0,0,1,1,Electronic check,74.95
+Nomads,Male,0,0,30,1,Bank transfer (automatic),100.4
+Nomads,Male,0,0,1,1,Bank transfer (automatic),20.2
+Nomads,Female,0,0,12,0,Mailed check,19.7
+Nomads,Female,0,0,17,1,Mailed check,69
+Nomads,Female,0,1,64,0,Bank transfer (automatic),19.8
+Paid in Full,Male,0,1,45,0,Credit card (automatic),73.85
+Paid in Full,Male,0,1,8,1,Mailed check,19.35
+Paid in Full,Female,0,1,8,0,Mailed check,19.05
+Paid in Full,Female,0,0,49,1,Mailed check,100.85
+Paid in Full,Female,0,0,5,1,Mailed check,85.3
+Paid in Full,Female,0,0,54,0,Mailed check,20.1
+Paid in Full,Male,0,0,9,1,Electronic check,88.05
+Paid in Full,Male,0,0,27,1,Electronic check,81.3
+Paid in Full,Male,0,0,31,1,Electronic check,71.05
+Paid in Full,Male,0,1,3,0,Electronic check,91.85
+Paid in Full,Female,0,1,48,1,Credit card (automatic),70.1
+Punch-Drunk Love,Male,0,0,54,0,Credit card (automatic),45.2
+Punch-Drunk Love,Female,0,1,72,1,Credit card (automatic),116.8
+Punch-Drunk Love,Female,0,0,5,1,Electronic check,68.95
+Punch-Drunk Love,Female,0,0,72,1,Bank transfer (automatic),101.3
+Punch-Drunk Love,Female,0,0,56,0,Bank transfer (automatic),45.05
+Punch-Drunk Love,Female,0,1,71,1,Credit card (automatic),95.75
+Punch-Drunk Love,Female,0,1,34,0,Mailed check,61.25
+Punch-Drunk Love,Female,1,0,1,1,Electronic check,72.1
+Punch-Drunk Love,Male,1,0,45,0,Credit card (automatic),62.7
+Punch-Drunk Love,Male,1,0,1,1,Electronic check,25.1
+Punch-Drunk Love,Female,1,0,50,0,Electronic check,25.2
+National Lampoon's Animal House,Male,0,0,60,1,Electronic check,95.75
+National Lampoon's Animal House,Female,0,0,58,1,Credit card (automatic),110.65
+National Lampoon's Animal House,Female,0,0,3,1,Electronic check,60.25
+National Lampoon's Animal House,Male,0,0,55,1,Electronic check,59.2
+National Lampoon's Animal House,Male,0,0,49,1,Credit card (automatic),85.3
+National Lampoon's Animal House,Male,0,1,8,0,Mailed check,25.5
+National Lampoon's Animal House,Male,0,0,66,1,Credit card (automatic),66.1
+National Lampoon's Animal House,Male,0,0,25,1,Bank transfer (automatic),19.5
+National Lampoon's Animal House,Male,0,0,22,1,Bank transfer (automatic),87
+National Lampoon's Animal House,Male,0,0,15,1,Electronic check,49
+Inside Job,Male,0,1,28,1,Bank transfer (automatic),74.9
+Inside Job,Female,0,0,53,0,Mailed check,18.7
+Inside Job,Male,0,0,56,0,Credit card (automatic),19.95
+Inside Job,Male,0,0,10,1,Electronic check,45.55
+Inside Job,Male,0,0,29,0,Bank transfer (automatic),48.95
+Inside Job,Male,0,1,53,1,Mailed check,78.75
+Inside Job,Male,0,0,4,1,Electronic check,85.65
+Inside Job,Male,0,0,9,1,Bank transfer (automatic),68.25
+Inside Job,Male,0,1,4,1,Electronic check,101.7
+Johnny,Female,0,0,4,1,Credit card (automatic),82.85
+Johnny,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,2,1,Electronic check,80.45
+Price Check,Male,1,0,11,0,Bank transfer (automatic),60.25
+Price Check,Female,1,0,72,1,Bank transfer (automatic),89.85
+Price Check,Female,0,0,28,1,Mailed check,29.75
+Price Check,Female,1,0,34,1,Electronic check,56.25
+Great Expectations,Female,0,1,61,0,Mailed check,88.1
+Great Expectations,Female,0,0,70,0,Credit card (automatic),115.55
+Great Expectations,Female,0,0,15,0,Mailed check,19.9
+Great Expectations,Female,0,0,1,0,Electronic check,50.15
+Great Expectations,Female,0,1,72,0,Bank transfer (automatic),20.1
+Great Expectations,Female,0,0,49,1,Bank transfer (automatic),74.45
+Great Expectations,Female,1,0,60,1,Credit card (automatic),100.5
+Pit Stop,Male,0,0,4,1,Electronic check,73.9
+Pit Stop,Male,0,0,15,1,Electronic check,101.35
+Pit Stop,Male,0,0,72,1,Electronic check,94.65
+Pit Stop,Male,0,0,22,1,Electronic check,54.2
+Pit Stop,Male,0,0,5,0,Mailed check,21.05
+Pit Stop,Male,0,0,1,1,Electronic check,95.45
+Pit Stop,Male,0,0,5,1,Mailed check,19.25
+Omar,Female,1,0,1,1,Electronic check,72.1
+Omar,Male,1,0,45,0,Credit card (automatic),62.7
+Omar,Female,0,1,69,0,Bank transfer (automatic),19.7
+Omar,Female,0,0,49,0,Bank transfer (automatic),20.45
+Omar,Male,0,1,29,1,Mailed check,45
+Omar,Male,0,0,30,1,Mailed check,64.5
+Omar,Male,0,0,21,1,Electronic check,111.2
+RoboCop,Male,0,1,37,0,Bank transfer (automatic),40.2
+RoboCop,Male,1,0,48,1,Credit card (automatic),91.05
+RoboCop,Male,0,0,5,1,Electronic check,85.3
+RoboCop,Male,0,0,70,1,Mailed check,40.05
+RoboCop,Male,0,0,72,0,Credit card (automatic),84.3
+RoboCop,Female,0,0,21,1,Mailed check,104.55
+RoboCop,Male,0,1,72,1,Electronic check,89.7
+RoboCop,Female,0,0,26,1,Electronic check,80.7
+RoboCop,Male,0,1,49,0,Electronic check,84.5
+RoboCop,Male,0,0,22,0,Credit card (automatic),95.9
+RoboCop,Male,1,0,64,0,Electronic check,102.1
+RoboCop,Male,0,0,36,0,Mailed check,20
+The Imitation Game,Female,0,1,9,1,Mailed check,65.6
+The Imitation Game,Male,0,0,9,0,Mailed check,59.9
+The Imitation Game,Male,0,0,4,1,Electronic check,73.9
+The Imitation Game,Male,1,0,13,1,Electronic check,98
+The Imitation Game,Female,1,0,3,1,Mailed check,83.9
+The Imitation Game,Female,0,1,9,1,Credit card (automatic),69.4
+The Imitation Game,Female,1,0,71,1,Bank transfer (automatic),109.7
+The Imitation Game,Male,0,0,63,1,Credit card (automatic),84.65
+Copenhagen,Male,0,1,28,0,Bank transfer (automatic),100.35
+Copenhagen,Female,1,0,24,1,Mailed check,20.3
+Copenhagen,Female,0,0,62,1,Electronic check,92.05
+Copenhagen,Female,0,0,5,0,Electronic check,54.2
+Copenhagen,Female,0,0,1,0,Mailed check,70.75
+Copenhagen,Male,1,0,57,1,Credit card (automatic),71.1
+Copenhagen,Female,0,0,28,0,Mailed check,20.5
+Pleased to Meet Me,Male,0,1,72,0,Credit card (automatic),89.7
+Pleased to Meet Me,Male,0,1,55,0,Bank transfer (automatic),85.5
+Pleased to Meet Me,Female,0,1,41,1,Bank transfer (automatic),94.9
+Redeemed,Male,0,0,1,1,Electronic check,95.45
+Redeemed,Male,0,0,13,1,Electronic check,91.1
+Redeemed,Male,0,0,4,1,Bank transfer (automatic),63.75
+Redeemed,Female,0,0,1,1,Electronic check,81.95
+Redeemed,Female,0,1,66,0,Bank transfer (automatic),109.25
+Redeemed,Female,0,0,33,1,Bank transfer (automatic),70.4
+Redeemed,Female,0,0,52,0,Bank transfer (automatic),94.6
+Prisoners of the Sun,Male,0,1,37,0,Credit card (automatic),91.2
+Prisoners of the Sun,Male,0,1,20,1,Credit card (automatic),39.4
+Prisoners of the Sun,Female,0,0,55,1,Bank transfer (automatic),89.8
+Prisoners of the Sun,Male,0,1,29,1,Mailed check,45
+Prisoners of the Sun,Male,0,0,64,0,Electronic check,81.25
+Prisoners of the Sun,Male,0,0,22,1,Electronic check,54.2
+Prisoners of the Sun,Female,0,0,24,1,Bank transfer (automatic),19.55
+Prisoners of the Sun,Male,1,0,63,0,Bank transfer (automatic),36.1
+Prisoners of the Sun,Male,0,1,1,0,Mailed check,19.7
+Once Upon a Time In Shanghai,Female,1,0,1,1,Electronic check,72.1
+Once Upon a Time In Shanghai,Female,0,1,23,1,Electronic check,83.75
+Once Upon a Time In Shanghai,Female,0,0,3,0,Mailed check,19.95
+Once Upon a Time In Shanghai,Female,0,0,72,1,Electronic check,109.9
+Once Upon a Time In Shanghai,Male,1,0,32,1,Electronic check,74.9
+Once Upon a Time In Shanghai,Female,0,0,8,0,Electronic check,101.15
+Narcos,Female,0,1,9,1,Mailed check,65.6
+Narcos,Female,0,1,34,0,Mailed check,61.25
+Narcos,Female,0,0,3,0,Mailed check,19.85
+Narcos,Female,0,1,1,0,Bank transfer (automatic),30.5
+Narcos,Male,0,0,26,1,Bank transfer (automatic),19.6
+Narcos,Female,0,1,12,0,Bank transfer (automatic),20.3
+Narcos,Male,0,1,27,1,Bank transfer (automatic),75.75
+Narcos,Male,0,1,25,0,Credit card (automatic),25.5
+Narcos,Male,0,0,64,0,Electronic check,81.25
+Rocket Men,Male,0,0,1,1,Electronic check,19.85
+Rocket Men,Male,0,0,10,1,Electronic check,85.25
+Rocket Men,Male,0,1,72,0,Credit card (automatic),89.7
+Rocket Men,Male,0,1,67,0,Credit card (automatic),81.35
+Rocket Men,Male,0,0,63,0,Credit card (automatic),104.5
+Rocket Men,Male,1,0,27,1,Electronic check,95.55
+Rocket Men,Male,0,0,20,1,Mailed check,89
+Rocket Men,Male,0,0,71,0,Credit card (automatic),97.65
+Rocket Men,Male,0,0,72,0,Bank transfer (automatic),86.65
+Rocket Men,Male,1,0,9,1,Electronic check,100.5
+Spotlight,Female,0,1,9,1,Mailed check,65.6
+Spotlight,Male,1,0,13,1,Electronic check,98
+Spotlight,Female,1,0,3,1,Mailed check,83.9
+Spotlight,Female,0,1,9,1,Credit card (automatic),69.4
+Spotlight,Female,1,0,71,1,Bank transfer (automatic),109.7
+Spotlight,Male,0,0,63,1,Credit card (automatic),84.65
+Spotlight,Female,1,0,7,1,Electronic check,48.2
+Spotlight,Female,0,1,65,1,Mailed check,90.45
+Spotlight,Male,0,0,54,0,Credit card (automatic),45.2
+Spotlight,Female,0,1,72,1,Credit card (automatic),116.8
+Spotlight,Female,0,0,5,1,Electronic check,68.95
+Spotlight,Female,0,0,72,1,Bank transfer (automatic),101.3
+Spotlight,Female,0,0,56,0,Bank transfer (automatic),45.05
+Spotlight,Female,0,1,71,1,Credit card (automatic),95.75
+Spotlight,Female,0,1,34,0,Mailed check,61.25
+Spotlight,Female,1,0,1,1,Electronic check,72.1
+Zootopia,Male,0,1,29,1,Mailed check,45
+Zootopia,Female,0,1,39,1,Credit card (automatic),99.95
+Zootopia,Male,0,1,1,1,Electronic check,99.75
+Zootopia,Male,1,1,32,1,Mailed check,93.95
+Zootopia,Male,0,1,16,1,Bank transfer (automatic),90.8
+Zootopia,Male,0,1,37,0,Bank transfer (automatic),40.2
+Zootopia,Female,0,1,61,0,Mailed check,88.1
+Zootopia,Female,0,1,26,0,Mailed check,45.8
+Zootopia,Male,0,1,44,1,Bank transfer (automatic),20.5
+The Jungle Book,Female,0,1,65,1,Mailed check,90.45
+The Jungle Book,Female,0,1,71,1,Credit card (automatic),95.75
+The Jungle Book,Female,0,1,23,1,Electronic check,83.75
+The Jungle Book,Female,0,1,4,0,Mailed check,20.35
+The Jungle Book,Female,0,1,1,0,Bank transfer (automatic),30.5
+The Jungle Book,Female,0,1,55,1,Bank transfer (automatic),103.7
+The Jungle Book,Male,0,1,54,0,Credit card (automatic),20.4
+The Jungle Book,Female,0,1,69,0,Bank transfer (automatic),19.7
+The Jungle Book,Male,0,1,37,0,Credit card (automatic),91.2
+The Jungle Book,Female,0,1,43,1,Electronic check,25.1
+The Jungle Book,Female,0,1,12,0,Bank transfer (automatic),20.3
+Patriot Games,Female,0,0,1,1,Electronic check,81.95
+Patriot Games,Male,0,0,4,1,Electronic check,100.2
+Patriot Games,Female,0,0,51,1,Credit card (automatic),78.65
+Patriot Games,Male,0,0,1,0,Mailed check,44.45
+Patriot Games,Male,1,0,25,1,Electronic check,89.05
+Patriot Games,Female,0,0,26,0,Bank transfer (automatic),81.9
+Rounders,Female,0,1,39,1,Credit card (automatic),99.95
+Rounders,Female,0,1,71,0,Bank transfer (automatic),20.1
+Rounders,Female,0,1,72,1,Electronic check,78.95
+Payback,Male,0,0,12,0,Bank transfer (automatic),81.7
+Payback,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,1,0,13,1,Electronic check,98
+Caddyshack,Male,0,0,25,0,Bank transfer (automatic),25.3
+Caddyshack,Female,0,1,46,1,Mailed check,19.25
+Patton,Male,1,0,57,1,Bank transfer (automatic),95.25
+Patton,Female,1,0,8,1,Credit card (automatic),94.45
+Patton,Female,1,0,72,0,Credit card (automatic),89.1
+Patton,Male,0,0,24,1,Credit card (automatic),51.1
+Patton,Male,1,0,4,0,Electronic check,69.35
+Patton,Female,1,0,72,1,Bank transfer (automatic),110.1
+Cleopatra,Female,1,0,44,0,Bank transfer (automatic),74.85
+Cleopatra,Female,0,0,12,1,Bank transfer (automatic),89.75
+Cleopatra,Female,0,0,1,1,Mailed check,80.2
+Cleopatra,Female,0,0,2,0,Electronic check,90.35
+Cleopatra,Female,1,0,27,1,Bank transfer (automatic),86.45
+Cleopatra,Male,0,0,26,1,Electronic check,20.3
+Cleopatra,Female,1,0,39,1,Electronic check,101.25
+Cleopatra,Female,0,0,1,0,Mailed check,70.9
+Cleopatra,Female,0,0,72,1,Electronic check,114.9
+An American Werewolf in London,Male,1,0,55,1,Electronic check,74
+An American Werewolf in London,Female,1,0,55,1,Electronic check,85.45
+An American Werewolf in London,Male,1,0,57,1,Credit card (automatic),71.1
+An American Werewolf in London,Female,0,0,72,1,Electronic check,109.55
+An American Werewolf in London,Female,0,0,28,0,Mailed check,20.5
+An American Werewolf in London,Male,0,0,54,1,Bank transfer (automatic),74.55
+An American Werewolf in London,Male,1,1,24,1,Electronic check,79.85
+An American Werewolf in London,Female,0,0,2,1,Mailed check,62.15
+An American Werewolf in London,Male,0,1,12,0,Credit card (automatic),21.05
+An American Werewolf in London,Male,1,0,51,1,Bank transfer (automatic),79.6
+An American Werewolf in London,Male,0,0,13,0,Mailed check,73.35
+An American Werewolf in London,Male,0,0,58,0,Bank transfer (automatic),70.1
+An American Werewolf in London,Female,0,1,18,1,Credit card (automatic),54.4
+An American Werewolf in London,Female,0,0,29,1,Mailed check,19.55
+An American Werewolf in London,Female,0,1,72,0,Mailed check,74.55
+An American Werewolf in London,Male,0,1,71,0,Credit card (automatic),23.9
+Nomads,Male,0,0,72,1,Credit card (automatic),61.2
+Nomads,Male,1,0,72,0,Bank transfer (automatic),74.4
+Nomads,Male,0,0,15,1,Electronic check,49
+Nomads,Male,0,0,24,1,Bank transfer (automatic),99.65
+Nomads,Male,0,0,1,1,Electronic check,74.95
+Nomads,Male,0,0,30,1,Bank transfer (automatic),100.4
+Nomads,Male,0,0,1,1,Bank transfer (automatic),20.2
+Nomads,Female,0,0,12,0,Mailed check,19.7
+Nomads,Female,0,0,17,1,Mailed check,69
+Nomads,Female,0,1,64,0,Bank transfer (automatic),19.8
+Paid in Full,Male,0,1,45,0,Credit card (automatic),73.85
+Paid in Full,Male,0,1,8,1,Mailed check,19.35
+Paid in Full,Female,0,1,8,0,Mailed check,19.05
+Paid in Full,Female,0,0,49,1,Mailed check,100.85
+Paid in Full,Female,0,0,5,1,Mailed check,85.3
+Paid in Full,Female,0,0,54,0,Mailed check,20.1
+Paid in Full,Male,0,0,9,1,Electronic check,88.05
+Paid in Full,Male,0,0,27,1,Electronic check,81.3
+Paid in Full,Male,0,0,31,1,Electronic check,71.05
+Paid in Full,Male,0,1,3,0,Electronic check,91.85
+Paid in Full,Female,0,1,48,1,Credit card (automatic),70.1
+Punch-Drunk Love,Male,0,0,54,0,Credit card (automatic),45.2
+Punch-Drunk Love,Female,0,1,72,1,Credit card (automatic),116.8
+Punch-Drunk Love,Female,0,0,5,1,Electronic check,68.95
+Punch-Drunk Love,Female,0,0,72,1,Bank transfer (automatic),101.3
+Punch-Drunk Love,Female,0,0,56,0,Bank transfer (automatic),45.05
+Punch-Drunk Love,Female,0,1,71,1,Credit card (automatic),95.75
+Punch-Drunk Love,Female,0,1,34,0,Mailed check,61.25
+Punch-Drunk Love,Female,1,0,1,1,Electronic check,72.1
+Punch-Drunk Love,Male,1,0,45,0,Credit card (automatic),62.7
+Punch-Drunk Love,Male,1,0,1,1,Electronic check,25.1
+Punch-Drunk Love,Female,1,0,50,0,Electronic check,25.2
+National Lampoon's Animal House,Male,0,0,60,1,Electronic check,95.75
+National Lampoon's Animal House,Female,0,0,58,1,Credit card (automatic),110.65
+National Lampoon's Animal House,Female,0,0,3,1,Electronic check,60.25
+National Lampoon's Animal House,Male,0,0,55,1,Electronic check,59.2
+National Lampoon's Animal House,Male,0,0,49,1,Credit card (automatic),85.3
+National Lampoon's Animal House,Male,0,1,8,0,Mailed check,25.5
+National Lampoon's Animal House,Male,0,0,66,1,Credit card (automatic),66.1
+National Lampoon's Animal House,Male,0,0,25,1,Bank transfer (automatic),19.5
+National Lampoon's Animal House,Male,0,0,22,1,Bank transfer (automatic),87
+National Lampoon's Animal House,Male,0,0,15,1,Electronic check,49
+Inside Job,Male,0,1,28,1,Bank transfer (automatic),74.9
+Inside Job,Female,0,0,53,0,Mailed check,18.7
+Inside Job,Male,0,0,56,0,Credit card (automatic),19.95
+Inside Job,Male,0,0,10,1,Electronic check,45.55
+Inside Job,Male,0,0,29,0,Bank transfer (automatic),48.95
+Inside Job,Male,0,1,53,1,Mailed check,78.75
+Inside Job,Male,0,0,4,1,Electronic check,85.65
+Inside Job,Male,0,0,9,1,Bank transfer (automatic),68.25
+Inside Job,Male,0,1,4,1,Electronic check,101.7
+Johnny,Female,0,0,4,1,Credit card (automatic),82.85
+Johnny,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,2,1,Electronic check,80.45
+Price Check,Male,1,0,11,0,Bank transfer (automatic),60.25
+Price Check,Female,1,0,72,1,Bank transfer (automatic),89.85
+Price Check,Female,0,0,28,1,Mailed check,29.75
+Price Check,Female,1,0,34,1,Electronic check,56.25
+Great Expectations,Female,0,1,61,0,Mailed check,88.1
+Great Expectations,Female,0,0,70,0,Credit card (automatic),115.55
+Great Expectations,Female,0,0,15,0,Mailed check,19.9
+Great Expectations,Female,0,0,1,0,Electronic check,50.15
+Great Expectations,Female,0,1,72,0,Bank transfer (automatic),20.1
+Great Expectations,Female,0,0,49,1,Bank transfer (automatic),74.45
+Great Expectations,Female,1,0,60,1,Credit card (automatic),100.5
+Pit Stop,Male,0,0,4,1,Electronic check,73.9
+Pit Stop,Male,0,0,15,1,Electronic check,101.35
+Pit Stop,Male,0,0,72,1,Electronic check,94.65
+Pit Stop,Male,0,0,22,1,Electronic check,54.2
+Pit Stop,Male,0,0,5,0,Mailed check,21.05
+Pit Stop,Male,0,0,1,1,Electronic check,95.45
+Pit Stop,Male,0,0,5,1,Mailed check,19.25
+Omar,Female,1,0,1,1,Electronic check,72.1
+Omar,Male,1,0,45,0,Credit card (automatic),62.7
+Omar,Female,0,1,69,0,Bank transfer (automatic),19.7
+Omar,Female,0,0,49,0,Bank transfer (automatic),20.45
+Omar,Male,0,1,29,1,Mailed check,45
+Omar,Male,0,0,30,1,Mailed check,64.5
+Omar,Male,0,0,21,1,Electronic check,111.2
+RoboCop,Male,0,1,37,0,Bank transfer (automatic),40.2
+RoboCop,Male,1,0,48,1,Credit card (automatic),91.05
+RoboCop,Male,0,0,5,1,Electronic check,85.3
+RoboCop,Male,0,0,70,1,Mailed check,40.05
+RoboCop,Male,0,0,72,0,Credit card (automatic),84.3
+RoboCop,Female,0,0,21,1,Mailed check,104.55
+RoboCop,Male,0,1,72,1,Electronic check,89.7
+RoboCop,Female,0,0,26,1,Electronic check,80.7
+RoboCop,Male,0,1,49,0,Electronic check,84.5
+RoboCop,Male,0,0,22,0,Credit card (automatic),95.9
+RoboCop,Male,1,0,64,0,Electronic check,102.1
+RoboCop,Male,0,0,36,0,Mailed check,20
+The Imitation Game,Female,0,1,9,1,Mailed check,65.6
+The Imitation Game,Male,0,0,9,0,Mailed check,59.9
+The Imitation Game,Male,0,0,4,1,Electronic check,73.9
+The Imitation Game,Male,1,0,13,1,Electronic check,98
+The Imitation Game,Female,1,0,3,1,Mailed check,83.9
+The Imitation Game,Female,0,1,9,1,Credit card (automatic),69.4
+The Imitation Game,Female,1,0,71,1,Bank transfer (automatic),109.7
+The Imitation Game,Male,0,0,63,1,Credit card (automatic),84.65
+Copenhagen,Male,0,1,28,0,Bank transfer (automatic),100.35
+Copenhagen,Female,1,0,24,1,Mailed check,20.3
+Copenhagen,Female,0,0,62,1,Electronic check,92.05
+Copenhagen,Female,0,0,5,0,Electronic check,54.2
+Copenhagen,Female,0,0,1,0,Mailed check,70.75
+Copenhagen,Male,1,0,57,1,Credit card (automatic),71.1
+Copenhagen,Female,0,0,28,0,Mailed check,20.5
+Pleased to Meet Me,Male,0,1,72,0,Credit card (automatic),89.7
+Pleased to Meet Me,Male,0,1,55,0,Bank transfer (automatic),85.5
+Pleased to Meet Me,Female,0,1,41,1,Bank transfer (automatic),94.9
+Redeemed,Male,0,0,1,1,Electronic check,95.45
+Redeemed,Male,0,0,13,1,Electronic check,91.1
+Redeemed,Male,0,0,4,1,Bank transfer (automatic),63.75
+Redeemed,Female,0,0,1,1,Electronic check,81.95
+Redeemed,Female,0,1,66,0,Bank transfer (automatic),109.25
+Redeemed,Female,0,0,33,1,Bank transfer (automatic),70.4
+Redeemed,Female,0,0,52,0,Bank transfer (automatic),94.6
+Prisoners of the Sun,Male,0,1,37,0,Credit card (automatic),91.2
+Prisoners of the Sun,Male,0,1,20,1,Credit card (automatic),39.4
+Prisoners of the Sun,Female,0,0,55,1,Bank transfer (automatic),89.8
+Prisoners of the Sun,Male,0,1,29,1,Mailed check,45
+Prisoners of the Sun,Male,0,0,64,0,Electronic check,81.25
+Prisoners of the Sun,Male,0,0,22,1,Electronic check,54.2
+Prisoners of the Sun,Female,0,0,24,1,Bank transfer (automatic),19.55
+Prisoners of the Sun,Male,1,0,63,0,Bank transfer (automatic),36.1
+Prisoners of the Sun,Male,0,1,1,0,Mailed check,19.7
+Once Upon a Time In Shanghai,Female,1,0,1,1,Electronic check,72.1
+Once Upon a Time In Shanghai,Female,0,1,23,1,Electronic check,83.75
+Once Upon a Time In Shanghai,Female,0,0,3,0,Mailed check,19.95
+Once Upon a Time In Shanghai,Female,0,0,72,1,Electronic check,109.9
+Once Upon a Time In Shanghai,Male,1,0,32,1,Electronic check,74.9
+Once Upon a Time In Shanghai,Female,0,0,8,0,Electronic check,101.15
+Narcos,Female,0,1,9,1,Mailed check,65.6
+Narcos,Female,0,1,34,0,Mailed check,61.25
+Narcos,Female,0,0,3,0,Mailed check,19.85
+Narcos,Female,0,1,1,0,Bank transfer (automatic),30.5
+Narcos,Male,0,0,26,1,Bank transfer (automatic),19.6
+Narcos,Female,0,1,12,0,Bank transfer (automatic),20.3
+Narcos,Male,0,1,27,1,Bank transfer (automatic),75.75
+Narcos,Male,0,1,25,0,Credit card (automatic),25.5
+Narcos,Male,0,0,64,0,Electronic check,81.25
+Rocket Men,Male,0,0,1,1,Electronic check,19.85
+Rocket Men,Male,0,0,10,1,Electronic check,85.25
+Rocket Men,Male,0,1,72,0,Credit card (automatic),89.7
+Rocket Men,Male,0,1,67,0,Credit card (automatic),81.35
+Rocket Men,Male,0,0,63,0,Credit card (automatic),104.5
+Rocket Men,Male,1,0,27,1,Electronic check,95.55
+Rocket Men,Male,0,0,20,1,Mailed check,89
+Rocket Men,Male,0,0,71,0,Credit card (automatic),97.65
+Rocket Men,Male,0,0,72,0,Bank transfer (automatic),86.65
+Rocket Men,Male,1,0,9,1,Electronic check,100.5
+Spotlight,Female,0,1,9,1,Mailed check,65.6
+Spotlight,Male,1,0,13,1,Electronic check,98
+Spotlight,Female,1,0,3,1,Mailed check,83.9
+Spotlight,Female,0,1,9,1,Credit card (automatic),69.4
+Spotlight,Female,1,0,71,1,Bank transfer (automatic),109.7
+Spotlight,Male,0,0,63,1,Credit card (automatic),84.65
+Spotlight,Female,1,0,7,1,Electronic check,48.2
+Spotlight,Female,0,1,65,1,Mailed check,90.45
+Spotlight,Male,0,0,54,0,Credit card (automatic),45.2
+Spotlight,Female,0,1,72,1,Credit card (automatic),116.8
+Spotlight,Female,0,0,5,1,Electronic check,68.95
+Spotlight,Female,0,0,72,1,Bank transfer (automatic),101.3
+Spotlight,Female,0,0,56,0,Bank transfer (automatic),45.05
+Spotlight,Female,0,1,71,1,Credit card (automatic),95.75
+Spotlight,Female,0,1,34,0,Mailed check,61.25
+Spotlight,Female,1,0,1,1,Electronic check,72.1
+Zootopia,Male,0,1,29,1,Mailed check,45
+Zootopia,Female,0,1,39,1,Credit card (automatic),99.95
+Zootopia,Male,0,1,1,1,Electronic check,99.75
+Zootopia,Male,1,1,32,1,Mailed check,93.95
+Zootopia,Male,0,1,16,1,Bank transfer (automatic),90.8
+Zootopia,Male,0,1,37,0,Bank transfer (automatic),40.2
+Zootopia,Female,0,1,61,0,Mailed check,88.1
+Zootopia,Female,0,1,26,0,Mailed check,45.8
+Zootopia,Male,0,1,44,1,Bank transfer (automatic),20.5
+The Jungle Book,Female,0,1,65,1,Mailed check,90.45
+The Jungle Book,Female,0,1,71,1,Credit card (automatic),95.75
+The Jungle Book,Female,0,1,23,1,Electronic check,83.75
+The Jungle Book,Female,0,1,4,0,Mailed check,20.35
+The Jungle Book,Female,0,1,1,0,Bank transfer (automatic),30.5
+The Jungle Book,Female,0,1,55,1,Bank transfer (automatic),103.7
+The Jungle Book,Male,0,1,54,0,Credit card (automatic),20.4
+The Jungle Book,Female,0,1,69,0,Bank transfer (automatic),19.7
+The Jungle Book,Male,0,1,37,0,Credit card (automatic),91.2
+The Jungle Book,Female,0,1,43,1,Electronic check,25.1
+The Jungle Book,Female,0,1,12,0,Bank transfer (automatic),20.3
+Patriot Games,Female,0,0,1,1,Electronic check,81.95
+Patriot Games,Male,0,0,4,1,Electronic check,100.2
+Patriot Games,Female,0,0,51,1,Credit card (automatic),78.65
+Patriot Games,Male,0,0,1,0,Mailed check,44.45
+Patriot Games,Male,1,0,25,1,Electronic check,89.05
+Patriot Games,Female,0,0,26,0,Bank transfer (automatic),81.9
+Rounders,Female,0,1,39,1,Credit card (automatic),99.95
+Rounders,Female,0,1,71,0,Bank transfer (automatic),20.1
+Rounders,Female,0,1,72,1,Electronic check,78.95
+Payback,Male,0,0,12,0,Bank transfer (automatic),81.7
+Payback,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,1,0,13,1,Electronic check,98
+Caddyshack,Male,0,0,25,0,Bank transfer (automatic),25.3
+Caddyshack,Female,0,1,46,1,Mailed check,19.25
+Patton,Male,1,0,57,1,Bank transfer (automatic),95.25
+Patton,Female,1,0,8,1,Credit card (automatic),94.45
+Patton,Female,1,0,72,0,Credit card (automatic),89.1
+Patton,Male,0,0,24,1,Credit card (automatic),51.1
+Patton,Male,1,0,4,0,Electronic check,69.35
+Patton,Female,1,0,72,1,Bank transfer (automatic),110.1
+Cleopatra,Female,1,0,44,0,Bank transfer (automatic),74.85
+Cleopatra,Female,0,0,12,1,Bank transfer (automatic),89.75
+Cleopatra,Female,0,0,1,1,Mailed check,80.2
+Cleopatra,Female,0,0,2,0,Electronic check,90.35
+Cleopatra,Female,1,0,27,1,Bank transfer (automatic),86.45
+Cleopatra,Male,0,0,26,1,Electronic check,20.3
+Cleopatra,Female,1,0,39,1,Electronic check,101.25
+Cleopatra,Female,0,0,1,0,Mailed check,70.9
+Cleopatra,Female,0,0,72,1,Electronic check,114.9
+An American Werewolf in London,Male,1,0,55,1,Electronic check,74
+An American Werewolf in London,Female,1,0,55,1,Electronic check,85.45
+An American Werewolf in London,Male,1,0,57,1,Credit card (automatic),71.1
+An American Werewolf in London,Female,0,0,72,1,Electronic check,109.55
+An American Werewolf in London,Female,0,0,28,0,Mailed check,20.5
+An American Werewolf in London,Male,0,0,54,1,Bank transfer (automatic),74.55
+An American Werewolf in London,Male,1,1,24,1,Electronic check,79.85
+An American Werewolf in London,Female,0,0,2,1,Mailed check,62.15
+An American Werewolf in London,Male,0,1,12,0,Credit card (automatic),21.05
+An American Werewolf in London,Male,1,0,51,1,Bank transfer (automatic),79.6
+An American Werewolf in London,Male,0,0,13,0,Mailed check,73.35
+An American Werewolf in London,Male,0,0,58,0,Bank transfer (automatic),70.1
+An American Werewolf in London,Female,0,1,18,1,Credit card (automatic),54.4
+An American Werewolf in London,Female,0,0,29,1,Mailed check,19.55
+An American Werewolf in London,Female,0,1,72,0,Mailed check,74.55
+An American Werewolf in London,Male,0,1,71,0,Credit card (automatic),23.9
+Nomads,Male,0,0,72,1,Credit card (automatic),61.2
+Nomads,Male,1,0,72,0,Bank transfer (automatic),74.4
+Nomads,Male,0,0,15,1,Electronic check,49
+Nomads,Male,0,0,24,1,Bank transfer (automatic),99.65
+Nomads,Male,0,0,1,1,Electronic check,74.95
+Nomads,Male,0,0,30,1,Bank transfer (automatic),100.4
+Nomads,Male,0,0,1,1,Bank transfer (automatic),20.2
+Nomads,Female,0,0,12,0,Mailed check,19.7
+Nomads,Female,0,0,17,1,Mailed check,69
+Nomads,Female,0,1,64,0,Bank transfer (automatic),19.8
+Paid in Full,Male,0,1,45,0,Credit card (automatic),73.85
+Paid in Full,Male,0,1,8,1,Mailed check,19.35
+Paid in Full,Female,0,1,8,0,Mailed check,19.05
+Paid in Full,Female,0,0,49,1,Mailed check,100.85
+Paid in Full,Female,0,0,5,1,Mailed check,85.3
+Paid in Full,Female,0,0,54,0,Mailed check,20.1
+Paid in Full,Male,0,0,9,1,Electronic check,88.05
+Paid in Full,Male,0,0,27,1,Electronic check,81.3
+Paid in Full,Male,0,0,31,1,Electronic check,71.05
+Paid in Full,Male,0,1,3,0,Electronic check,91.85
+Paid in Full,Female,0,1,48,1,Credit card (automatic),70.1
+Punch-Drunk Love,Male,0,0,54,0,Credit card (automatic),45.2
+Punch-Drunk Love,Female,0,1,72,1,Credit card (automatic),116.8
+Punch-Drunk Love,Female,0,0,5,1,Electronic check,68.95
+Punch-Drunk Love,Female,0,0,72,1,Bank transfer (automatic),101.3
+Punch-Drunk Love,Female,0,0,56,0,Bank transfer (automatic),45.05
+Punch-Drunk Love,Female,0,1,71,1,Credit card (automatic),95.75
+Punch-Drunk Love,Female,0,1,34,0,Mailed check,61.25
+Punch-Drunk Love,Female,1,0,1,1,Electronic check,72.1
+Punch-Drunk Love,Male,1,0,45,0,Credit card (automatic),62.7
+Punch-Drunk Love,Male,1,0,1,1,Electronic check,25.1
+Punch-Drunk Love,Female,1,0,50,0,Electronic check,25.2
+National Lampoon's Animal House,Male,0,0,60,1,Electronic check,95.75
+National Lampoon's Animal House,Female,0,0,58,1,Credit card (automatic),110.65
+National Lampoon's Animal House,Female,0,0,3,1,Electronic check,60.25
+National Lampoon's Animal House,Male,0,0,55,1,Electronic check,59.2
+National Lampoon's Animal House,Male,0,0,49,1,Credit card (automatic),85.3
+National Lampoon's Animal House,Male,0,1,8,0,Mailed check,25.5
+National Lampoon's Animal House,Male,0,0,66,1,Credit card (automatic),66.1
+National Lampoon's Animal House,Male,0,0,25,1,Bank transfer (automatic),19.5
+National Lampoon's Animal House,Male,0,0,22,1,Bank transfer (automatic),87
+National Lampoon's Animal House,Male,0,0,15,1,Electronic check,49
+Inside Job,Male,0,1,28,1,Bank transfer (automatic),74.9
+Inside Job,Female,0,0,53,0,Mailed check,18.7
+Inside Job,Male,0,0,56,0,Credit card (automatic),19.95
+Inside Job,Male,0,0,10,1,Electronic check,45.55
+Inside Job,Male,0,0,29,0,Bank transfer (automatic),48.95
+Inside Job,Male,0,1,53,1,Mailed check,78.75
+Inside Job,Male,0,0,4,1,Electronic check,85.65
+Inside Job,Male,0,0,9,1,Bank transfer (automatic),68.25
+Inside Job,Male,0,1,4,1,Electronic check,101.7
+Johnny,Female,0,0,4,1,Credit card (automatic),82.85
+Johnny,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,2,1,Electronic check,80.45
+Price Check,Male,1,0,11,0,Bank transfer (automatic),60.25
+Price Check,Female,1,0,72,1,Bank transfer (automatic),89.85
+Price Check,Female,0,0,28,1,Mailed check,29.75
+Price Check,Female,1,0,34,1,Electronic check,56.25
+Great Expectations,Female,0,1,61,0,Mailed check,88.1
+Great Expectations,Female,0,0,70,0,Credit card (automatic),115.55
+Great Expectations,Female,0,0,15,0,Mailed check,19.9
+Great Expectations,Female,0,0,1,0,Electronic check,50.15
+Great Expectations,Female,0,1,72,0,Bank transfer (automatic),20.1
+Great Expectations,Female,0,0,49,1,Bank transfer (automatic),74.45
+Great Expectations,Female,1,0,60,1,Credit card (automatic),100.5
+Pit Stop,Male,0,0,4,1,Electronic check,73.9
+Pit Stop,Male,0,0,15,1,Electronic check,101.35
+Pit Stop,Male,0,0,72,1,Electronic check,94.65
+Pit Stop,Male,0,0,22,1,Electronic check,54.2
+Pit Stop,Male,0,0,5,0,Mailed check,21.05
+Pit Stop,Male,0,0,1,1,Electronic check,95.45
+Pit Stop,Male,0,0,5,1,Mailed check,19.25
+Omar,Female,1,0,1,1,Electronic check,72.1
+Omar,Male,1,0,45,0,Credit card (automatic),62.7
+Omar,Female,0,1,69,0,Bank transfer (automatic),19.7
+Omar,Female,0,0,49,0,Bank transfer (automatic),20.45
+Omar,Male,0,1,29,1,Mailed check,45
+Omar,Male,0,0,30,1,Mailed check,64.5
+Omar,Male,0,0,21,1,Electronic check,111.2
+RoboCop,Male,0,1,37,0,Bank transfer (automatic),40.2
+RoboCop,Male,1,0,48,1,Credit card (automatic),91.05
+RoboCop,Male,0,0,5,1,Electronic check,85.3
+RoboCop,Male,0,0,70,1,Mailed check,40.05
+RoboCop,Male,0,0,72,0,Credit card (automatic),84.3
+RoboCop,Female,0,0,21,1,Mailed check,104.55
+RoboCop,Male,0,1,72,1,Electronic check,89.7
+RoboCop,Female,0,0,26,1,Electronic check,80.7
+RoboCop,Male,0,1,49,0,Electronic check,84.5
+RoboCop,Male,0,0,22,0,Credit card (automatic),95.9
+RoboCop,Male,1,0,64,0,Electronic check,102.1
+RoboCop,Male,0,0,36,0,Mailed check,20
+The Imitation Game,Female,0,1,9,1,Mailed check,65.6
+The Imitation Game,Male,0,0,9,0,Mailed check,59.9
+The Imitation Game,Male,0,0,4,1,Electronic check,73.9
+The Imitation Game,Male,1,0,13,1,Electronic check,98
+The Imitation Game,Female,1,0,3,1,Mailed check,83.9
+The Imitation Game,Female,0,1,9,1,Credit card (automatic),69.4
+The Imitation Game,Female,1,0,71,1,Bank transfer (automatic),109.7
+The Imitation Game,Male,0,0,63,1,Credit card (automatic),84.65
+Copenhagen,Male,0,1,28,0,Bank transfer (automatic),100.35
+Copenhagen,Female,1,0,24,1,Mailed check,20.3
+Copenhagen,Female,0,0,62,1,Electronic check,92.05
+Copenhagen,Female,0,0,5,0,Electronic check,54.2
+Copenhagen,Female,0,0,1,0,Mailed check,70.75
+Copenhagen,Male,1,0,57,1,Credit card (automatic),71.1
+Copenhagen,Female,0,0,28,0,Mailed check,20.5
+Pleased to Meet Me,Male,0,1,72,0,Credit card (automatic),89.7
+Pleased to Meet Me,Male,0,1,55,0,Bank transfer (automatic),85.5
+Pleased to Meet Me,Female,0,1,41,1,Bank transfer (automatic),94.9
+Redeemed,Male,0,0,1,1,Electronic check,95.45
+Redeemed,Male,0,0,13,1,Electronic check,91.1
+Redeemed,Male,0,0,4,1,Bank transfer (automatic),63.75
+Redeemed,Female,0,0,1,1,Electronic check,81.95
+Redeemed,Female,0,1,66,0,Bank transfer (automatic),109.25
+Redeemed,Female,0,0,33,1,Bank transfer (automatic),70.4
+Redeemed,Female,0,0,52,0,Bank transfer (automatic),94.6
+Prisoners of the Sun,Male,0,1,37,0,Credit card (automatic),91.2
+Prisoners of the Sun,Male,0,1,20,1,Credit card (automatic),39.4
+Prisoners of the Sun,Female,0,0,55,1,Bank transfer (automatic),89.8
+Prisoners of the Sun,Male,0,1,29,1,Mailed check,45
+Prisoners of the Sun,Male,0,0,64,0,Electronic check,81.25
+Prisoners of the Sun,Male,0,0,22,1,Electronic check,54.2
+Prisoners of the Sun,Female,0,0,24,1,Bank transfer (automatic),19.55
+Prisoners of the Sun,Male,1,0,63,0,Bank transfer (automatic),36.1
+Prisoners of the Sun,Male,0,1,1,0,Mailed check,19.7
+Once Upon a Time In Shanghai,Female,1,0,1,1,Electronic check,72.1
+Once Upon a Time In Shanghai,Female,0,1,23,1,Electronic check,83.75
+Once Upon a Time In Shanghai,Female,0,0,3,0,Mailed check,19.95
+Once Upon a Time In Shanghai,Female,0,0,72,1,Electronic check,109.9
+Once Upon a Time In Shanghai,Male,1,0,32,1,Electronic check,74.9
+Once Upon a Time In Shanghai,Female,0,0,8,0,Electronic check,101.15
+Narcos,Female,0,1,9,1,Mailed check,65.6
+Narcos,Female,0,1,34,0,Mailed check,61.25
+Narcos,Female,0,0,3,0,Mailed check,19.85
+Narcos,Female,0,1,1,0,Bank transfer (automatic),30.5
+Narcos,Male,0,0,26,1,Bank transfer (automatic),19.6
+Narcos,Female,0,1,12,0,Bank transfer (automatic),20.3
+Narcos,Male,0,1,27,1,Bank transfer (automatic),75.75
+Narcos,Male,0,1,25,0,Credit card (automatic),25.5
+Narcos,Male,0,0,64,0,Electronic check,81.25
+Rocket Men,Male,0,0,1,1,Electronic check,19.85
+Rocket Men,Male,0,0,10,1,Electronic check,85.25
+Rocket Men,Male,0,1,72,0,Credit card (automatic),89.7
+Rocket Men,Male,0,1,67,0,Credit card (automatic),81.35
+Rocket Men,Male,0,0,63,0,Credit card (automatic),104.5
+Rocket Men,Male,1,0,27,1,Electronic check,95.55
+Rocket Men,Male,0,0,20,1,Mailed check,89
+Rocket Men,Male,0,0,71,0,Credit card (automatic),97.65
+Rocket Men,Male,0,0,72,0,Bank transfer (automatic),86.65
+Rocket Men,Male,1,0,9,1,Electronic check,100.5
+Spotlight,Female,0,1,9,1,Mailed check,65.6
+Spotlight,Male,1,0,13,1,Electronic check,98
+Spotlight,Female,1,0,3,1,Mailed check,83.9
+Spotlight,Female,0,1,9,1,Credit card (automatic),69.4
+Spotlight,Female,1,0,71,1,Bank transfer (automatic),109.7
+Spotlight,Male,0,0,63,1,Credit card (automatic),84.65
+Spotlight,Female,1,0,7,1,Electronic check,48.2
+Spotlight,Female,0,1,65,1,Mailed check,90.45
+Spotlight,Male,0,0,54,0,Credit card (automatic),45.2
+Spotlight,Female,0,1,72,1,Credit card (automatic),116.8
+Spotlight,Female,0,0,5,1,Electronic check,68.95
+Spotlight,Female,0,0,72,1,Bank transfer (automatic),101.3
+Spotlight,Female,0,0,56,0,Bank transfer (automatic),45.05
+Spotlight,Female,0,1,71,1,Credit card (automatic),95.75
+Spotlight,Female,0,1,34,0,Mailed check,61.25
+Spotlight,Female,1,0,1,1,Electronic check,72.1
+Zootopia,Male,0,1,29,1,Mailed check,45
+Zootopia,Female,0,1,39,1,Credit card (automatic),99.95
+Zootopia,Male,0,1,1,1,Electronic check,99.75
+Zootopia,Male,1,1,32,1,Mailed check,93.95
+Zootopia,Male,0,1,16,1,Bank transfer (automatic),90.8
+Zootopia,Male,0,1,37,0,Bank transfer (automatic),40.2
+Zootopia,Female,0,1,61,0,Mailed check,88.1
+Zootopia,Female,0,1,26,0,Mailed check,45.8
+Zootopia,Male,0,1,44,1,Bank transfer (automatic),20.5
+The Jungle Book,Female,0,1,65,1,Mailed check,90.45
+The Jungle Book,Female,0,1,71,1,Credit card (automatic),95.75
+The Jungle Book,Female,0,1,23,1,Electronic check,83.75
+The Jungle Book,Female,0,1,4,0,Mailed check,20.35
+The Jungle Book,Female,0,1,1,0,Bank transfer (automatic),30.5
+The Jungle Book,Female,0,1,55,1,Bank transfer (automatic),103.7
+The Jungle Book,Male,0,1,54,0,Credit card (automatic),20.4
+The Jungle Book,Female,0,1,69,0,Bank transfer (automatic),19.7
+The Jungle Book,Male,0,1,37,0,Credit card (automatic),91.2
+The Jungle Book,Female,0,1,43,1,Electronic check,25.1
+The Jungle Book,Female,0,1,12,0,Bank transfer (automatic),20.3
+Patriot Games,Female,0,0,1,1,Electronic check,81.95
+Patriot Games,Male,0,0,4,1,Electronic check,100.2
+Patriot Games,Female,0,0,51,1,Credit card (automatic),78.65
+Patriot Games,Male,0,0,1,0,Mailed check,44.45
+Patriot Games,Male,1,0,25,1,Electronic check,89.05
+Patriot Games,Female,0,0,26,0,Bank transfer (automatic),81.9
+Rounders,Female,0,1,39,1,Credit card (automatic),99.95
+Rounders,Female,0,1,71,0,Bank transfer (automatic),20.1
+Rounders,Female,0,1,72,1,Electronic check,78.95
+Payback,Male,0,0,12,0,Bank transfer (automatic),81.7
+Payback,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,1,0,13,1,Electronic check,98
+Caddyshack,Male,0,0,25,0,Bank transfer (automatic),25.3
+Caddyshack,Female,0,1,46,1,Mailed check,19.25
+Patton,Male,1,0,57,1,Bank transfer (automatic),95.25
+Patton,Female,1,0,8,1,Credit card (automatic),94.45
+Patton,Female,1,0,72,0,Credit card (automatic),89.1
+Patton,Male,0,0,24,1,Credit card (automatic),51.1
+Patton,Male,1,0,4,0,Electronic check,69.35
+Patton,Female,1,0,72,1,Bank transfer (automatic),110.1
+Cleopatra,Female,1,0,44,0,Bank transfer (automatic),74.85
+Cleopatra,Female,0,0,12,1,Bank transfer (automatic),89.75
+Cleopatra,Female,0,0,1,1,Mailed check,80.2
+Cleopatra,Female,0,0,2,0,Electronic check,90.35
+Cleopatra,Female,1,0,27,1,Bank transfer (automatic),86.45
+Cleopatra,Male,0,0,26,1,Electronic check,20.3
+Cleopatra,Female,1,0,39,1,Electronic check,101.25
+Cleopatra,Female,0,0,1,0,Mailed check,70.9
+Cleopatra,Female,0,0,72,1,Electronic check,114.9
+An American Werewolf in London,Male,1,0,55,1,Electronic check,74
+An American Werewolf in London,Female,1,0,55,1,Electronic check,85.45
+An American Werewolf in London,Male,1,0,57,1,Credit card (automatic),71.1
+An American Werewolf in London,Female,0,0,72,1,Electronic check,109.55
+An American Werewolf in London,Female,0,0,28,0,Mailed check,20.5
+An American Werewolf in London,Male,0,0,54,1,Bank transfer (automatic),74.55
+An American Werewolf in London,Male,1,1,24,1,Electronic check,79.85
+An American Werewolf in London,Female,0,0,2,1,Mailed check,62.15
+An American Werewolf in London,Male,0,1,12,0,Credit card (automatic),21.05
+An American Werewolf in London,Male,1,0,51,1,Bank transfer (automatic),79.6
+An American Werewolf in London,Male,0,0,13,0,Mailed check,73.35
+An American Werewolf in London,Male,0,0,58,0,Bank transfer (automatic),70.1
+An American Werewolf in London,Female,0,1,18,1,Credit card (automatic),54.4
+An American Werewolf in London,Female,0,0,29,1,Mailed check,19.55
+An American Werewolf in London,Female,0,1,72,0,Mailed check,74.55
+An American Werewolf in London,Male,0,1,71,0,Credit card (automatic),23.9
+Nomads,Male,0,0,72,1,Credit card (automatic),61.2
+Nomads,Male,1,0,72,0,Bank transfer (automatic),74.4
+Nomads,Male,0,0,15,1,Electronic check,49
+Nomads,Male,0,0,24,1,Bank transfer (automatic),99.65
+Nomads,Male,0,0,1,1,Electronic check,74.95
+Nomads,Male,0,0,30,1,Bank transfer (automatic),100.4
+Nomads,Male,0,0,1,1,Bank transfer (automatic),20.2
+Nomads,Female,0,0,12,0,Mailed check,19.7
+Nomads,Female,0,0,17,1,Mailed check,69
+Nomads,Female,0,1,64,0,Bank transfer (automatic),19.8
+Paid in Full,Male,0,1,45,0,Credit card (automatic),73.85
+Paid in Full,Male,0,1,8,1,Mailed check,19.35
+Paid in Full,Female,0,1,8,0,Mailed check,19.05
+Paid in Full,Female,0,0,49,1,Mailed check,100.85
+Paid in Full,Female,0,0,5,1,Mailed check,85.3
+Paid in Full,Female,0,0,54,0,Mailed check,20.1
+Paid in Full,Male,0,0,9,1,Electronic check,88.05
+Paid in Full,Male,0,0,27,1,Electronic check,81.3
+Paid in Full,Male,0,0,31,1,Electronic check,71.05
+Paid in Full,Male,0,1,3,0,Electronic check,91.85
+Paid in Full,Female,0,1,48,1,Credit card (automatic),70.1
+Punch-Drunk Love,Male,0,0,54,0,Credit card (automatic),45.2
+Punch-Drunk Love,Female,0,1,72,1,Credit card (automatic),116.8
+Punch-Drunk Love,Female,0,0,5,1,Electronic check,68.95
+Punch-Drunk Love,Female,0,0,72,1,Bank transfer (automatic),101.3
+Punch-Drunk Love,Female,0,0,56,0,Bank transfer (automatic),45.05
+Punch-Drunk Love,Female,0,1,71,1,Credit card (automatic),95.75
+Punch-Drunk Love,Female,0,1,34,0,Mailed check,61.25
+Punch-Drunk Love,Female,1,0,1,1,Electronic check,72.1
+Punch-Drunk Love,Male,1,0,45,0,Credit card (automatic),62.7
+Punch-Drunk Love,Male,1,0,1,1,Electronic check,25.1
+Punch-Drunk Love,Female,1,0,50,0,Electronic check,25.2
+National Lampoon's Animal House,Male,0,0,60,1,Electronic check,95.75
+National Lampoon's Animal House,Female,0,0,58,1,Credit card (automatic),110.65
+National Lampoon's Animal House,Female,0,0,3,1,Electronic check,60.25
+National Lampoon's Animal House,Male,0,0,55,1,Electronic check,59.2
+National Lampoon's Animal House,Male,0,0,49,1,Credit card (automatic),85.3
+National Lampoon's Animal House,Male,0,1,8,0,Mailed check,25.5
+National Lampoon's Animal House,Male,0,0,66,1,Credit card (automatic),66.1
+National Lampoon's Animal House,Male,0,0,25,1,Bank transfer (automatic),19.5
+National Lampoon's Animal House,Male,0,0,22,1,Bank transfer (automatic),87
+National Lampoon's Animal House,Male,0,0,15,1,Electronic check,49
+Inside Job,Male,0,1,28,1,Bank transfer (automatic),74.9
+Inside Job,Female,0,0,53,0,Mailed check,18.7
+Inside Job,Male,0,0,56,0,Credit card (automatic),19.95
+Inside Job,Male,0,0,10,1,Electronic check,45.55
+Inside Job,Male,0,0,29,0,Bank transfer (automatic),48.95
+Inside Job,Male,0,1,53,1,Mailed check,78.75
+Inside Job,Male,0,0,4,1,Electronic check,85.65
+Inside Job,Male,0,0,9,1,Bank transfer (automatic),68.25
+Inside Job,Male,0,1,4,1,Electronic check,101.7
+Johnny,Female,0,0,4,1,Credit card (automatic),82.85
+Johnny,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,2,1,Electronic check,80.45
+Price Check,Male,1,0,11,0,Bank transfer (automatic),60.25
+Price Check,Female,1,0,72,1,Bank transfer (automatic),89.85
+Price Check,Female,0,0,28,1,Mailed check,29.75
+Price Check,Female,1,0,34,1,Electronic check,56.25
+Great Expectations,Female,0,1,61,0,Mailed check,88.1
+Great Expectations,Female,0,0,70,0,Credit card (automatic),115.55
+Great Expectations,Female,0,0,15,0,Mailed check,19.9
+Great Expectations,Female,0,0,1,0,Electronic check,50.15
+Great Expectations,Female,0,1,72,0,Bank transfer (automatic),20.1
+Great Expectations,Female,0,0,49,1,Bank transfer (automatic),74.45
+Great Expectations,Female,1,0,60,1,Credit card (automatic),100.5
+Pit Stop,Male,0,0,4,1,Electronic check,73.9
+Pit Stop,Male,0,0,15,1,Electronic check,101.35
+Pit Stop,Male,0,0,72,1,Electronic check,94.65
+Pit Stop,Male,0,0,22,1,Electronic check,54.2
+Pit Stop,Male,0,0,5,0,Mailed check,21.05
+Pit Stop,Male,0,0,1,1,Electronic check,95.45
+Pit Stop,Male,0,0,5,1,Mailed check,19.25
+Omar,Female,1,0,1,1,Electronic check,72.1
+Omar,Male,1,0,45,0,Credit card (automatic),62.7
+Omar,Female,0,1,69,0,Bank transfer (automatic),19.7
+Omar,Female,0,0,49,0,Bank transfer (automatic),20.45
+Omar,Male,0,1,29,1,Mailed check,45
+Omar,Male,0,0,30,1,Mailed check,64.5
+Omar,Male,0,0,21,1,Electronic check,111.2
+RoboCop,Male,0,1,37,0,Bank transfer (automatic),40.2
+RoboCop,Male,1,0,48,1,Credit card (automatic),91.05
+RoboCop,Male,0,0,5,1,Electronic check,85.3
+RoboCop,Male,0,0,70,1,Mailed check,40.05
+RoboCop,Male,0,0,72,0,Credit card (automatic),84.3
+RoboCop,Female,0,0,21,1,Mailed check,104.55
+RoboCop,Male,0,1,72,1,Electronic check,89.7
+RoboCop,Female,0,0,26,1,Electronic check,80.7
+RoboCop,Male,0,1,49,0,Electronic check,84.5
+RoboCop,Male,0,0,22,0,Credit card (automatic),95.9
+RoboCop,Male,1,0,64,0,Electronic check,102.1
+RoboCop,Male,0,0,36,0,Mailed check,20
+The Imitation Game,Female,0,1,9,1,Mailed check,65.6
+The Imitation Game,Male,0,0,9,0,Mailed check,59.9
+The Imitation Game,Male,0,0,4,1,Electronic check,73.9
+The Imitation Game,Male,1,0,13,1,Electronic check,98
+The Imitation Game,Female,1,0,3,1,Mailed check,83.9
+The Imitation Game,Female,0,1,9,1,Credit card (automatic),69.4
+The Imitation Game,Female,1,0,71,1,Bank transfer (automatic),109.7
+The Imitation Game,Male,0,0,63,1,Credit card (automatic),84.65
+Copenhagen,Male,0,1,28,0,Bank transfer (automatic),100.35
+Copenhagen,Female,1,0,24,1,Mailed check,20.3
+Copenhagen,Female,0,0,62,1,Electronic check,92.05
+Copenhagen,Female,0,0,5,0,Electronic check,54.2
+Copenhagen,Female,0,0,1,0,Mailed check,70.75
+Copenhagen,Male,1,0,57,1,Credit card (automatic),71.1
+Copenhagen,Female,0,0,28,0,Mailed check,20.5
+Pleased to Meet Me,Male,0,1,72,0,Credit card (automatic),89.7
+Pleased to Meet Me,Male,0,1,55,0,Bank transfer (automatic),85.5
+Pleased to Meet Me,Female,0,1,41,1,Bank transfer (automatic),94.9
+Redeemed,Male,0,0,1,1,Electronic check,95.45
+Redeemed,Male,0,0,13,1,Electronic check,91.1
+Redeemed,Male,0,0,4,1,Bank transfer (automatic),63.75
+Redeemed,Female,0,0,1,1,Electronic check,81.95
+Redeemed,Female,0,1,66,0,Bank transfer (automatic),109.25
+Redeemed,Female,0,0,33,1,Bank transfer (automatic),70.4
+Redeemed,Female,0,0,52,0,Bank transfer (automatic),94.6
+Prisoners of the Sun,Male,0,1,37,0,Credit card (automatic),91.2
+Prisoners of the Sun,Male,0,1,20,1,Credit card (automatic),39.4
+Prisoners of the Sun,Female,0,0,55,1,Bank transfer (automatic),89.8
+Prisoners of the Sun,Male,0,1,29,1,Mailed check,45
+Prisoners of the Sun,Male,0,0,64,0,Electronic check,81.25
+Prisoners of the Sun,Male,0,0,22,1,Electronic check,54.2
+Prisoners of the Sun,Female,0,0,24,1,Bank transfer (automatic),19.55
+Prisoners of the Sun,Male,1,0,63,0,Bank transfer (automatic),36.1
+Prisoners of the Sun,Male,0,1,1,0,Mailed check,19.7
+Once Upon a Time In Shanghai,Female,1,0,1,1,Electronic check,72.1
+Once Upon a Time In Shanghai,Female,0,1,23,1,Electronic check,83.75
+Once Upon a Time In Shanghai,Female,0,0,3,0,Mailed check,19.95
+Once Upon a Time In Shanghai,Female,0,0,72,1,Electronic check,109.9
+Once Upon a Time In Shanghai,Male,1,0,32,1,Electronic check,74.9
+Once Upon a Time In Shanghai,Female,0,0,8,0,Electronic check,101.15
+Narcos,Female,0,1,9,1,Mailed check,65.6
+Narcos,Female,0,1,34,0,Mailed check,61.25
+Narcos,Female,0,0,3,0,Mailed check,19.85
+Narcos,Female,0,1,1,0,Bank transfer (automatic),30.5
+Narcos,Male,0,0,26,1,Bank transfer (automatic),19.6
+Narcos,Female,0,1,12,0,Bank transfer (automatic),20.3
+Narcos,Male,0,1,27,1,Bank transfer (automatic),75.75
+Narcos,Male,0,1,25,0,Credit card (automatic),25.5
+Narcos,Male,0,0,64,0,Electronic check,81.25
+Rocket Men,Male,0,0,1,1,Electronic check,19.85
+Rocket Men,Male,0,0,10,1,Electronic check,85.25
+Rocket Men,Male,0,1,72,0,Credit card (automatic),89.7
+Rocket Men,Male,0,1,67,0,Credit card (automatic),81.35
+Rocket Men,Male,0,0,63,0,Credit card (automatic),104.5
+Rocket Men,Male,1,0,27,1,Electronic check,95.55
+Rocket Men,Male,0,0,20,1,Mailed check,89
+Rocket Men,Male,0,0,71,0,Credit card (automatic),97.65
+Rocket Men,Male,0,0,72,0,Bank transfer (automatic),86.65
+Rocket Men,Male,1,0,9,1,Electronic check,100.5
+Spotlight,Female,0,1,9,1,Mailed check,65.6
+Spotlight,Male,1,0,13,1,Electronic check,98
+Spotlight,Female,1,0,3,1,Mailed check,83.9
+Spotlight,Female,0,1,9,1,Credit card (automatic),69.4
+Spotlight,Female,1,0,71,1,Bank transfer (automatic),109.7
+Spotlight,Male,0,0,63,1,Credit card (automatic),84.65
+Spotlight,Female,1,0,7,1,Electronic check,48.2
+Spotlight,Female,0,1,65,1,Mailed check,90.45
+Spotlight,Male,0,0,54,0,Credit card (automatic),45.2
+Spotlight,Female,0,1,72,1,Credit card (automatic),116.8
+Spotlight,Female,0,0,5,1,Electronic check,68.95
+Spotlight,Female,0,0,72,1,Bank transfer (automatic),101.3
+Spotlight,Female,0,0,56,0,Bank transfer (automatic),45.05
+Spotlight,Female,0,1,71,1,Credit card (automatic),95.75
+Spotlight,Female,0,1,34,0,Mailed check,61.25
+Spotlight,Female,1,0,1,1,Electronic check,72.1
+Zootopia,Male,0,1,29,1,Mailed check,45
+Zootopia,Female,0,1,39,1,Credit card (automatic),99.95
+Zootopia,Male,0,1,1,1,Electronic check,99.75
+Zootopia,Male,1,1,32,1,Mailed check,93.95
+Zootopia,Male,0,1,16,1,Bank transfer (automatic),90.8
+Zootopia,Male,0,1,37,0,Bank transfer (automatic),40.2
+Zootopia,Female,0,1,61,0,Mailed check,88.1
+Zootopia,Female,0,1,26,0,Mailed check,45.8
+Zootopia,Male,0,1,44,1,Bank transfer (automatic),20.5
+The Jungle Book,Female,0,1,65,1,Mailed check,90.45
+The Jungle Book,Female,0,1,71,1,Credit card (automatic),95.75
+The Jungle Book,Female,0,1,23,1,Electronic check,83.75
+The Jungle Book,Female,0,1,4,0,Mailed check,20.35
+The Jungle Book,Female,0,1,1,0,Bank transfer (automatic),30.5
+The Jungle Book,Female,0,1,55,1,Bank transfer (automatic),103.7
+The Jungle Book,Male,0,1,54,0,Credit card (automatic),20.4
+The Jungle Book,Female,0,1,69,0,Bank transfer (automatic),19.7
+The Jungle Book,Male,0,1,37,0,Credit card (automatic),91.2
+The Jungle Book,Female,0,1,43,1,Electronic check,25.1
+The Jungle Book,Female,0,1,12,0,Bank transfer (automatic),20.3
+Patriot Games,Female,0,0,1,1,Electronic check,81.95
+Patriot Games,Male,0,0,4,1,Electronic check,100.2
+Patriot Games,Female,0,0,51,1,Credit card (automatic),78.65
+Patriot Games,Male,0,0,1,0,Mailed check,44.45
+Patriot Games,Male,1,0,25,1,Electronic check,89.05
+Patriot Games,Female,0,0,26,0,Bank transfer (automatic),81.9
+Rounders,Female,0,1,39,1,Credit card (automatic),99.95
+Rounders,Female,0,1,71,0,Bank transfer (automatic),20.1
+Rounders,Female,0,1,72,1,Electronic check,78.95
+Payback,Male,0,0,12,0,Bank transfer (automatic),81.7
+Payback,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,0,0,4,1,Electronic check,73.9
+Caddyshack,Male,1,0,13,1,Electronic check,98
+Caddyshack,Male,0,0,25,0,Bank transfer (automatic),25.3
+Caddyshack,Female,0,1,46,1,Mailed check,19.25
+Patton,Male,1,0,57,1,Bank transfer (automatic),95.25
+Patton,Female,1,0,8,1,Credit card (automatic),94.45
+Patton,Female,1,0,72,0,Credit card (automatic),89.1
+Patton,Male,0,0,24,1,Credit card (automatic),51.1
+Patton,Male,1,0,4,0,Electronic check,69.35
+Patton,Female,1,0,72,1,Bank transfer (automatic),110.1
+Cleopatra,Female,1,0,44,0,Bank transfer (automatic),74.85
+Cleopatra,Female,0,0,12,1,Bank transfer (automatic),89.75
+Cleopatra,Female,0,0,1,1,Mailed check,80.2
+Cleopatra,Female,0,0,2,0,Electronic check,90.35
+Cleopatra,Female,1,0,27,1,Bank transfer (automatic),86.45
+Cleopatra,Male,0,0,26,1,Electronic check,20.3
+Cleopatra,Female,1,0,39,1,Electronic check,101.25
+Cleopatra,Female,0,0,1,0,Mailed check,70.9
+Cleopatra,Female,0,0,72,1,Electronic check,114.9
+An American Werewolf in London,Male,1,0,55,1,Electronic check,74
+An American Werewolf in London,Female,1,0,55,1,Electronic check,85.45
+An American Werewolf in London,Male,1,0,57,1,Credit card (automatic),71.1
+An American Werewolf in London,Female,0,0,72,1,Electronic check,109.55
+An American Werewolf in London,Female,0,0,28,0,Mailed check,20.5
+An American Werewolf in London,Male,0,0,54,1,Bank transfer (automatic),74.55
+An American Werewolf in London,Male,1,1,24,1,Electronic check,79.85
+An American Werewolf in London,Female,0,0,2,1,Mailed check,62.15
+An American Werewolf in London,Male,0,1,12,0,Credit card (automatic),21.05
+An American Werewolf in London,Male,1,0,51,1,Bank transfer (automatic),79.6
+An American Werewolf in London,Male,0,0,13,0,Mailed check,73.35
+An American Werewolf in London,Male,0,0,58,0,Bank transfer (automatic),70.1
+An American Werewolf in London,Female,0,1,18,1,Credit card (automatic),54.4
+An American Werewolf in London,Female,0,0,29,1,Mailed check,19.55
+An American Werewolf in London,Female,0,1,72,0,Mailed check,74.55
+An American Werewolf in London,Male,0,1,71,0,Credit card (automatic),23.9
+Nomads,Male,0,0,72,1,Credit card (automatic),61.2
+Nomads,Male,1,0,72,0,Bank transfer (automatic),74.4
+Nomads,Male,0,0,15,1,Electronic check,49
+Nomads,Male,0,0,24,1,Bank transfer (automatic),99.65
+Nomads,Male,0,0,1,1,Electronic check,74.95
+Nomads,Male,0,0,30,1,Bank transfer (automatic),100.4
+Nomads,Male,0,0,1,1,Bank transfer (automatic),20.2
+Nomads,Female,0,0,12,0,Mailed check,19.7
+Nomads,Female,0,0,17,1,Mailed check,69
+Nomads,Female,0,1,64,0,Bank transfer (automatic),19.8
+Paid in Full,Male,0,1,45,0,Credit card (automatic),73.85
+Paid in Full,Male,0,1,8,1,Mailed check,19.35
+Paid in Full,Female,0,1,8,0,Mailed check,19.05
+Paid in Full,Female,0,0,49,1,Mailed check,100.85
+Paid in Full,Female,0,0,5,1,Mailed check,85.3
+Paid in Full,Female,0,0,54,0,Mailed check,20.1
+Paid in Full,Male,0,0,9,1,Electronic check,88.05
+Paid in Full,Male,0,0,27,1,Electronic check,81.3
+Paid in Full,Male,0,0,31,1,Electronic check,71.05
+Paid in Full,Male,0,1,3,0,Electronic check,91.85
+Paid in Full,Female,0,1,48,1,Credit card (automatic),70.1
+Punch-Drunk Love,Male,0,0,54,0,Credit card (automatic),45.2
+Punch-Drunk Love,Female,0,1,72,1,Credit card (automatic),116.8
+Punch-Drunk Love,Female,0,0,5,1,Electronic check,68.95
+Punch-Drunk Love,Female,0,0,72,1,Bank transfer (automatic),101.3
+Punch-Drunk Love,Female,0,0,56,0,Bank transfer (automatic),45.05
+Punch-Drunk Love,Female,0,1,71,1,Credit card (automatic),95.75
+Punch-Drunk Love,Female,0,1,34,0,Mailed check,61.25
+Punch-Drunk Love,Female,1,0,1,1,Electronic check,72.1
+Punch-Drunk Love,Male,1,0,45,0,Credit card (automatic),62.7
+Punch-Drunk Love,Male,1,0,1,1,Electronic check,25.1
+Punch-Drunk Love,Female,1,0,50,0,Electronic check,25.2
+National Lampoon's Animal House,Male,0,0,60,1,Electronic check,95.75
+National Lampoon's Animal House,Female,0,0,58,1,Credit card (automatic),110.65
+National Lampoon's Animal House,Female,0,0,3,1,Electronic check,60.25
+National Lampoon's Animal House,Male,0,0,55,1,Electronic check,59.2
+National Lampoon's Animal House,Male,0,0,49,1,Credit card (automatic),85.3
+National Lampoon's Animal House,Male,0,1,8,0,Mailed check,25.5
+National Lampoon's Animal House,Male,0,0,66,1,Credit card (automatic),66.1
+National Lampoon's Animal House,Male,0,0,25,1,Bank transfer (automatic),19.5
+National Lampoon's Animal House,Male,0,0,22,1,Bank transfer (automatic),87
+National Lampoon's Animal House,Male,0,0,15,1,Electronic check,49
+Inside Job,Male,0,1,28,1,Bank transfer (automatic),74.9
+Inside Job,Female,0,0,53,0,Mailed check,18.7
+Inside Job,Male,0,0,56,0,Credit card (automatic),19.95
+Inside Job,Male,0,0,10,1,Electronic check,45.55
+Inside Job,Male,0,0,29,0,Bank transfer (automatic),48.95
+Inside Job,Male,0,1,53,1,Mailed check,78.75
+Inside Job,Male,0,0,4,1,Electronic check,85.65
+Inside Job,Male,0,0,9,1,Bank transfer (automatic),68.25
+Inside Job,Male,0,1,4,1,Electronic check,101.7
+Johnny,Female,0,0,4,1,Credit card (automatic),82.85
+Johnny,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,30,1,Bank transfer (automatic),55.3
+Price Check,Female,0,0,2,1,Electronic check,80.45
+Price Check,Male,1,0,11,0,Bank transfer (automatic),60.25
+Price Check,Female,1,0,72,1,Bank transfer (automatic),89.85
+Price Check,Female,0,0,28,1,Mailed check,29.75
+Price Check,Female,1,0,34,1,Electronic check,56.25
+Great Expectations,Female,0,1,61,0,Mailed check,88.1
+Great Expectations,Female,0,0,70,0,Credit card (automatic),115.55
+Great Expectations,Female,0,0,15,0,Mailed check,19.9
+Great Expectations,Female,0,0,1,0,Electronic check,50.15
+Great Expectations,Female,0,1,72,0,Bank transfer (automatic),20.1
+Great Expectations,Female,0,0,49,1,Bank transfer (automatic),74.45
+Great Expectations,Female,1,0,60,1,Credit card (automatic),100.5
+Pit Stop,Male,0,0,4,1,Electronic check,73.9
+Pit Stop,Male,0,0,15,1,Electronic check,101.35
+Pit Stop,Male,0,0,72,1,Electronic check,94.65
+Pit Stop,Male,0,0,22,1,Electronic check,54.2
+Pit Stop,Male,0,0,5,0,Mailed check,21.05
+Pit Stop,Male,0,0,1,1,Electronic check,95.45
+Pit Stop,Male,0,0,5,1,Mailed check,19.25
+Omar,Female,1,0,1,1,Electronic check,72.1
+Omar,Male,1,0,45,0,Credit card (automatic),62.7
+Omar,Female,0,1,69,0,Bank transfer (automatic),19.7
+Omar,Female,0,0,49,0,Bank transfer (automatic),20.45
+Omar,Male,0,1,29,1,Mailed check,45
+Omar,Male,0,0,30,1,Mailed check,64.5
+Omar,Male,0,0,21,1,Electronic check,111.2
+RoboCop,Male,0,1,37,0,Bank transfer (automatic),40.2
+RoboCop,Male,1,0,48,1,Credit card (automatic),91.05
+RoboCop,Male,0,0,5,1,Electronic check,85.3
+RoboCop,Male,0,0,70,1,Mailed check,40.05
+RoboCop,Male,0,0,72,0,Credit card (automatic),84.3
+RoboCop,Female,0,0,21,1,Mailed check,104.55
+RoboCop,Male,0,1,72,1,Electronic check,89.7
+RoboCop,Female,0,0,26,1,Electronic check,80.7
+RoboCop,Male,0,1,49,0,Electronic check,84.5
+RoboCop,Male,0,0,22,0,Credit card (automatic),95.9
+RoboCop,Male,1,0,64,0,Electronic check,102.1
+RoboCop,Male,0,0,36,0,Mailed check,20
+The Imitation Game,Female,0,1,9,1,Mailed check,65.6
+The Imitation Game,Male,0,0,9,0,Mailed check,59.9
+The Imitation Game,Male,0,0,4,1,Electronic check,73.9
+The Imitation Game,Male,1,0,13,1,Electronic check,98
+The Imitation Game,Female,1,0,3,1,Mailed check,83.9
+The Imitation Game,Female,0,1,9,1,Credit card (automatic),69.4
+The Imitation Game,Female,1,0,71,1,Bank transfer (automatic),109.7
+The Imitation Game,Male,0,0,63,1,Credit card (automatic),84.65
+Copenhagen,Male,0,1,28,0,Bank transfer (automatic),100.35
+Copenhagen,Female,1,0,24,1,Mailed check,20.3
+Copenhagen,Female,0,0,62,1,Electronic check,92.05
+Copenhagen,Female,0,0,5,0,Electronic check,54.2
+Copenhagen,Female,0,0,1,0,Mailed check,70.75
+Copenhagen,Male,1,0,57,1,Credit card (automatic),71.1
+Copenhagen,Female,0,0,28,0,Mailed check,20.5
+Pleased to Meet Me,Male,0,1,72,0,Credit card (automatic),89.7
+Pleased to Meet Me,Male,0,1,55,0,Bank transfer (automatic),85.5
+Pleased to Meet Me,Female,0,1,41,1,Bank transfer (automatic),94.9
+Redeemed,Male,0,0,1,1,Electronic check,95.45
+Redeemed,Male,0,0,13,1,Electronic check,91.1
+Redeemed,Male,0,0,4,1,Bank transfer (automatic),63.75
+Redeemed,Female,0,0,1,1,Electronic check,81.95
+Redeemed,Female,0,1,66,0,Bank transfer (automatic),109.25
+Redeemed,Female,0,0,33,1,Bank transfer (automatic),70.4
+Redeemed,Female,0,0,52,0,Bank transfer (automatic),94.6
+Prisoners of the Sun,Male,0,1,37,0,Credit card (automatic),91.2
+Prisoners of the Sun,Male,0,1,20,1,Credit card (automatic),39.4
+Prisoners of the Sun,Female,0,0,55,1,Bank transfer (automatic),89.8
+Prisoners of the Sun,Male,0,1,29,1,Mailed check,45
+Prisoners of the Sun,Male,0,0,64,0,Electronic check,81.25
+Prisoners of the Sun,Male,0,0,22,1,Electronic check,54.2
+Prisoners of the Sun,Female,0,0,24,1,Bank transfer (automatic),19.55
+Prisoners of the Sun,Male,1,0,63,0,Bank transfer (automatic),36.1
+Prisoners of the Sun,Male,0,1,1,0,Mailed check,19.7
+Once Upon a Time In Shanghai,Female,1,0,1,1,Electronic check,72.1
+Once Upon a Time In Shanghai,Female,0,1,23,1,Electronic check,83.75
+Once Upon a Time In Shanghai,Female,0,0,3,0,Mailed check,19.95
+Once Upon a Time In Shanghai,Female,0,0,72,1,Electronic check,109.9
+Once Upon a Time In Shanghai,Male,1,0,32,1,Electronic check,74.9
+Once Upon a Time In Shanghai,Female,0,0,8,0,Electronic check,101.15
+Narcos,Female,0,1,9,1,Mailed check,65.6
+Narcos,Female,0,1,34,0,Mailed check,61.25
+Narcos,Female,0,0,3,0,Mailed check,19.85
+Narcos,Female,0,1,1,0,Bank transfer (automatic),30.5
+Narcos,Male,0,0,26,1,Bank transfer (automatic),19.6
+Narcos,Female,0,1,12,0,Bank transfer (automatic),20.3
+Narcos,Male,0,1,27,1,Bank transfer (automatic),75.75
+Narcos,Male,0,1,25,0,Credit card (automatic),25.5
+Narcos,Male,0,0,64,0,Electronic check,81.25
+Rocket Men,Male,0,0,1,1,Electronic check,19.85
+Rocket Men,Male,0,0,10,1,Electronic check,85.25
+Rocket Men,Male,0,1,72,0,Credit card (automatic),89.7
+Rocket Men,Male,0,1,67,0,Credit card (automatic),81.35
+Rocket Men,Male,0,0,63,0,Credit card (automatic),104.5
+Rocket Men,Male,1,0,27,1,Electronic check,95.55
+Rocket Men,Male,0,0,20,1,Mailed check,89
+Rocket Men,Male,0,0,71,0,Credit card (automatic),97.65
+Rocket Men,Male,0,0,72,0,Bank transfer (automatic),86.65
+Rocket Men,Male,1,0,9,1,Electronic check,100.5
+Spotlight,Female,0,1,9,1,Mailed check,65.6
+Spotlight,Male,1,0,13,1,Electronic check,98
+Spotlight,Female,1,0,3,1,Mailed check,83.9
+Spotlight,Female,0,1,9,1,Credit card (automatic),69.4
+Spotlight,Female,1,0,71,1,Bank transfer (automatic),109.7
+Spotlight,Male,0,0,63,1,Credit card (automatic),84.65
+Spotlight,Female,1,0,7,1,Electronic check,48.2
+Spotlight,Female,0,1,65,1,Mailed check,90.45
+Spotlight,Male,0,0,54,0,Credit card (automatic),45.2
+Spotlight,Female,0,1,72,1,Credit card (automatic),116.8
+Spotlight,Female,0,0,5,1,Electronic check,68.95
+Spotlight,Female,0,0,72,1,Bank transfer (automatic),101.3
+Spotlight,Female,0,0,56,0,Bank transfer (automatic),45.05
+Spotlight,Female,0,1,71,1,Credit card (automatic),95.75
+Spotlight,Female,0,1,34,0,Mailed check,61.25
+Spotlight,Female,1,0,1,1,Electronic check,72.1
+Zootopia,Male,0,1,29,1,Mailed check,45
+Zootopia,Female,0,1,39,1,Credit card (automatic),99.95
+Zootopia,Male,0,1,1,1,Electronic check,99.75
+Zootopia,Male,1,1,32,1,Mailed check,93.95
+Zootopia,Male,0,1,16,1,Bank transfer (automatic),90.8
+Zootopia,Male,0,1,37,0,Bank transfer (automatic),40.2
+Zootopia,Female,0,1,61,0,Mailed check,88.1
+Zootopia,Female,0,1,26,0,Mailed check,45.8
+Zootopia,Male,0,1,44,1,Bank transfer (automatic),20.5
+The Jungle Book,Female,0,1,65,1,Mailed check,90.45
+The Jungle Book,Female,0,1,71,1,Credit card (automatic),95.75
+The Jungle Book,Female,0,1,23,1,Electronic check,83.75
+The Jungle Book,Female,0,1,4,0,Mailed check,20.35
+The Jungle Book,Female,0,1,1,0,Bank transfer (automatic),30.5
+The Jungle Book,Female,0,1,55,1,Bank transfer (automatic),103.7
+The Jungle Book,Male,0,1,54,0,Credit card (automatic),20.4
+The Jungle Book,Female,0,1,69,0,Bank transfer (automatic),19.7
+The Jungle Book,Male,0,1,37,0,Credit card (automatic),91.2
+The Jungle Book,Female,0,1,43,1,Electronic check,25.1
+The Jungle Book,Female,0,1,12,0,Bank transfer (automatic),20.3
+Patriot Games,Female,0,0,1,1,Electronic check,81.95
+Patriot Games,Male,0,0,4,1,Electronic check,100.2
+Patriot Games,Female,0,0,51,1,Credit card (automatic),78.65
+Patriot Games,Male,0,0,1,0,Mailed check,44.45
+Patriot Games,Male,1,0,25,1,Electronic check,89.05
+Patriot Games,Female,0,0,26,0,Bank transfer (automatic),81.9

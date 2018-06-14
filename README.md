@@ -32,4 +32,21 @@ These tutorials will be centered around the Machine Learning category & the tool
     1. Check the box to accept Watson Studio and Knowledge Catalog terms and conditions
     2. If you don't already have an IBMid, click 'Create an IBMid'
     3. Fill out your information, and verify your account via email.
-4. Login to [Watson Studio](https://dataplatform.ibm.com/) with your IBMid.
+    4. Once your IBMid has been verified, and you are logged into IBM Cloud - it will look like this:
+4. In a new tab, navigate to [Watson Studio](https://dataplatform.ibm.com/)
+    1. Click 'Log in'
+    2. You will be prompted to Select Organization and Space. This is to connect your Watson Studio service to your IBM Cloud       account. Make sure you see your IBMid in the 'IBM Cloud Organization' box, and hit 'Continue'
+    3. You should see a window appear that says your account is registered - click to get started.
+
+# Step Two: Create a project
+
+1. From your Watson Studio dashboard, click 'New project'
+    1. You will see a prompt to select a project tile. By default, the 'Complete' tile is selected for you. Let's keep the default - and click 'OK'
+2. Name your project 'Watson Studio Lab'
+3. Optional, uncheck 'Restrict who can be a collaborator'
+4. A Cloud Object Storage (COS) instance is required to create a project. This will be the underlying storage for all assets within the project (data, notebooks, models, etc.).
+    1. Select the 'Lite' plan for COS
+    2. Click 'Create' 
+    3. Click 'Confirm'
+    4. Click 'Refresh' - and now you have your COS service linked to the project.
+5. Click 'Create'

@@ -5,4 +5,5 @@ Watson Studio provides you with the environment and tools to solve your business
 
 This illustration shows how the architecture of Watson Studio is centered around the project. A project is where you organize your resources and work with data. 
 
+![alt text](https://github.com/lindsaywithers/watson-studio/blob/master/WatsonStudioArch.png)
 

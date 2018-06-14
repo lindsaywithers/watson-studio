@@ -53,8 +53,10 @@ These tutorials will be centered around the Machine Learning category & the tool
 
 The overview tab gives you a preview of your assets, bookmarks, collaborators and recent activity. 
 
-You're now ready to start building models in Watson Studio! 
+# You're now ready to start building models in Watson Studio! 
 
 **Build with Model Builder**
+
 **Build with Jupyter Notebook**
+
 **Build with Flow Editor**
